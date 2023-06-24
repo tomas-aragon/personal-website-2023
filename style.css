@@ -167,7 +167,7 @@ flex-direction: column;
 #iframe{
 
 width: 70%;
-height: 25rem;
+height: 38rem;
 }
 @include media-breakpoint-up(md) {
     #pinturas{
